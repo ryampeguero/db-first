@@ -1,0 +1,10 @@
+
+Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario
+
+id              -   INT AUTO_INCREMENT PRIMARY_KEY
+model           -   VARCHAR(255)
+brand           -   VARCHAR(255)
+price           -   DECIMAL(8,2)
+km_travelled    -   MEDIUMINT UNSIGNED
+discount        -   TINYINT UNSIGNED
+fuel_type       -   VARCHAR(255)
