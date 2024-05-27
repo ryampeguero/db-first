@@ -1,5 +1,6 @@
 
 Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario
+Nome Tabella: Auto_usate
 
 id              -   INT AUTO_INCREMENT PRIMARY_KEY
 model           -   VARCHAR(255)
